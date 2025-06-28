@@ -39,7 +39,7 @@ The Linear Regression model demonstrates better performance on the test set, ach
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/solubility-prediction.git](https://github.com/Prasamshaaaa/Solubility-Prediction.git)
+    git clone https://github.com/Prasamshaaaa/Solubility-Prediction.git
     cd solubility-prediction
     ```
 
@@ -52,5 +52,5 @@ The Linear Regression model demonstrates better performance on the test set, ach
 
 ---
 
-## File Structure
+
 
